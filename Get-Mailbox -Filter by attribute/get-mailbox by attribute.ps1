@@ -1,6 +1,6 @@
 #######################################################################################################
 ###                                                                                                 ###
-###  Script by Terry Munro - http://blog.teamterry.net - https://github.com/TeamTerry/Scripts       ###
+###  Script by Terry Munro - http://365Admin.com.au - https://github.com/TeamTerry                  ###
 ###  Version 1.0 - 03/01/2017                                                                       ###
 ###  Enter the custom attribute number and value                                                    ###
 ###                                                                                                 ###
